@@ -15,3 +15,8 @@ o One player game (Human vs. Computer).
 
 ![image](https://user-images.githubusercontent.com/98472054/235759006-fcabf924-82d7-4879-bb5f-6a3d9cac9cb2.png)
 
+Mode 1 : Two player games:
+
+![image](https://user-images.githubusercontent.com/98472054/235759208-89152eb3-5af8-4581-9db5-0b56a100cecf.png)
+
+
