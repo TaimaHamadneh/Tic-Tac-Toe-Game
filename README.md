@@ -19,4 +19,9 @@ Mode 1 : Two player games:
 
 ![image](https://user-images.githubusercontent.com/98472054/235759208-89152eb3-5af8-4581-9db5-0b56a100cecf.png)
 
+Mode 2 : One player game:
+
+![image](https://user-images.githubusercontent.com/98472054/235759335-8b574fa0-a80e-4a83-9ebf-904b6055a742.png)
+
+
 
